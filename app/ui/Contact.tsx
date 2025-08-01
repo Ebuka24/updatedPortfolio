@@ -80,7 +80,7 @@ export default function Contact() {
                         design work or patnerships
                     </div>
 
-                    <form className="lg:my-0 my-2 md:my-2 text-center items-center p-0 md:p-2 ">
+                    <form className="lg:my-0 my-2 md:my-2 text-center items-center p-0 md:p-2 " action={"ebuka.assists@gmail.com"}>
                       
                         <input className="block my-12 w-3/4 ml-16 border-b-4 border-gray-400 outline-0 "   placeholder="Name *" type="text" />
                         
