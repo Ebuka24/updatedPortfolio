@@ -1,0 +1,18 @@
+/* Styles/contact.module.css */
+
+
+ /* <button className="text-xl border rounded-lg p-3 border-gray-400"> Submit </button> */
+      
+ .button {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    border:1px solid gray;
+    border-radius: 0.5rem;
+    padding:0.75rem
+ }
+.button:hover {
+    color: white;
+    background-color: gray;
+    transition: 1s;
+    border: none;
+}

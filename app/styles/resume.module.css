@@ -1,0 +1,36 @@
+/* styles/resume.module.css */
+
+
+.borderDesign {
+    border: 1px solid rgb(240, 240, 240);
+    background-color: rgb(138, 0, 131);
+    border-right-width: 3rem;
+    
+    width: 100%;
+    height: 0.29rem;
+    border-radius: 0.3rem;
+}
+
+.borderDesignFrontEnd {
+    border: 1px solid rgb(240, 240, 240);
+    background-color: rgb(76, 0, 255);
+    border-right-width: 5rem;
+
+    width: 100%;
+    height: 0.29rem;
+    border-radius: 0.3rem;
+}
+
+.borderDesignBackEnd {
+    border: 1px solid rgb(243, 243, 243);
+    background-color: rgb(255, 0, 242);
+    border-right-width: 6rem;
+
+    width: 100%;
+    height: 0.35rem;
+    border-radius: 0.3rem;
+}
+
+.workingSkills {
+    border-color: black;
+}

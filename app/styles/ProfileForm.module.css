@@ -1,0 +1,14 @@
+/*  styles/ProfileForm.module.css  */
+.button {
+    border: 1px solid #9CA3AF;
+    background-color: #E5E7EB;
+    padding: 0.5rem;
+    border-radius: 0.75rem;
+}
+
+.button:hover {
+    background-color: #9CA3AF;
+    color: white;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}

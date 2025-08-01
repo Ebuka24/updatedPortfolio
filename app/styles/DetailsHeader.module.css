@@ -1,0 +1,71 @@
+/* Styles/DetailsHeader.module.css */
+
+
+
+.home {
+    font-size: 1rem;
+    line-height: 1;
+   margin: 0rem 1rem;
+   font-weight: 600;
+   padding: 1rem 1rem;
+   border: 1px solid gray;
+   border-radius: 0.75rem;
+   text-align: center;
+}
+.home:hover {
+    
+   color: white;
+   background-color: gray;
+   border: none;
+   transition: 0.5s;
+}
+
+.resume {
+    font-size: 1rem;
+    line-height: 1;
+    margin: 0rem 1rem;
+    font-weight: 600;
+   padding: 1rem 1rem;
+   border: 1px solid gray;
+   border-radius: 0.75rem;
+   text-align: center;
+}
+.resume:hover {
+    color: white;
+   background-color: gray;
+   border: none;
+   transition: 0.5s;
+}
+
+.contact {
+    font-size: 1rem;
+    line-height: 1;
+    margin: 0rem 0rem 0rem 1rem;
+    font-weight: 600;
+   padding: 1rem 1rem;
+   border: 1px solid gray;
+   border-radius: 0.75rem;
+   text-align: center;
+}
+.contact:hover {
+    color: white;
+   background-color: gray;
+   border: none;
+   transition: 0.5s;
+}
+.works {
+    font-size: 1rem;
+    line-height: 1;
+    margin: 0rem 0rem 0rem 1rem;
+    font-weight: 600;
+   padding: 1rem 1rem;
+   border: 1px solid gray;
+   border-radius: 0.75rem;
+   text-align: center;
+}
+.works:hover {
+    color: white;
+   background-color: gray;
+   border: none;
+   transition: 0.5s;
+}
